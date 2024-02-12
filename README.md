@@ -13,29 +13,8 @@
 <a href="https://instagram.com/ende_1195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ende_1195" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<h4>Mobile Apps</h4>
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" />
-    </a>
-    <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic"
-            width="40" height="40" />
-    </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin"
-            width="40" height="40" />
-    </a>
-</p>
-
 <hr/>
-
-
+<h3 align="left">Languages and Tools:</h3>
 
 <h4>Programming Languages</h4>
 <p align="left">
@@ -71,6 +50,25 @@
             alt="swift" width="40" height="40" />
     </a>
 </p>
+
+<h4>Mobile Apps</h4>
+<p align="left">
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+            alt="android" width="40" height="40" />
+    </a>
+    <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic"
+            width="40" height="40" />
+    </a>
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin"
+            width="40" height="40" />
+    </a>
+</p>
+
+
 
 
 <h4>Backend Development</h4>
