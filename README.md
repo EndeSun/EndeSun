@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Laravel, Blender, Unity**
 
 - ✉️ How to reach me **1195562121ende@gmail.com**
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ende-sun-550928283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="endesun" height="30" width="40" /></a>
