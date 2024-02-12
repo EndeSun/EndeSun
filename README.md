@@ -166,7 +166,7 @@
             height="40" />
     </a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png"
             alt="blender" width="40" height="40" />
     </a>
 
