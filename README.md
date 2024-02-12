@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ende</h1>
 <h3 align="center">Biomedical engineer and software developer</h3>
 
-- 🔭 I’m study a master degree in **University of Alacant**
+- 🔭 I’m studying a master degree in **University of Alacant**
 
 - 🌱 I’m currently learning **Laravel, Blender, Unity**
 
-- 📫 How to reach me **1195562121ende@gmail.com**
+- ✉️ How to reach me **1195562121ende@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
