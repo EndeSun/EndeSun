@@ -15,8 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<section align=center>
-<div>
+
 <h4>Mobile Apps</h4>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -33,10 +32,10 @@
             width="40" height="40" />
     </a>
 </p>
-</div>
 
 
-<div>
+
+
 <h4>Programming Languages</h4>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -71,8 +70,7 @@
             alt="swift" width="40" height="40" />
     </a>
 </p>
-</div>
-</section>
+
 
 <h4>Backend Development</h4>
 <p align="left">
