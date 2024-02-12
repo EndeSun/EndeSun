@@ -68,6 +68,11 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" />
     </a>
+        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png"
+            alt="nodejs" width="40" height="40" />
+    </a>
 </p>
 
 <h4>Frontend Development</h4>
