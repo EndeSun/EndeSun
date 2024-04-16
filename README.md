@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ende</h1>
-<h3 align="center">Biomedical engineer and software developer</h3>
+<h3 align="center">Biomedical engineer ㊩ and software developer 👨🏻‍💻</h3>
 
 - 🔭 I’m studying a master degree in **University of Alacant**
 
