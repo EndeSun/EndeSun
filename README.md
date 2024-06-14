@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying a master degree in **University of Alacant**
 
-- 🌱 I’m currently learning **Laravel, Blender, Unity**
+- 🌱 I’m currently learning **Laravel, Prestashop, Machine Laerning, React Native**
 
 - ✉️ How to reach me **1195562121ende@gmail.com**
 <hr/>
