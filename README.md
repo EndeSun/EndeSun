@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ende</h1>
 <h3 align="center">Biomedical engineer ㊩ and software developer 👨🏻‍💻</h3>
 
-- 🔭 I’m studying a master degree in **University of Alacant**
+- 🔭 I'm working as a web developer in Spain, Zaragoza!
 
-- 🌱 I’m currently learning **Laravel, Prestashop, Machine Laerning, React Native**
+- 🌱 I’m currently learning **Symfony, Generative IA, React Native**
 
 - ✉️ How to reach me **1195562121ende@gmail.com**
 <hr/>
