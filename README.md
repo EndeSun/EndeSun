@@ -186,6 +186,14 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
             height="40" />
     </a>
+    <a href="https://www.atlassian.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="git" width="40"
+            height="40" />
+    </a>
+    <a href="https://bitbucket.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="git" width="40"
+            height="40" />
+    </a>
 </p>
 
 <div align="center">
