@@ -44,7 +44,7 @@ Biomedical engineer turned software engineer, working at the intersection of com
         <img src="https://cdn.simpleicons.org/symfony/FFFFFF" alt="symfony" title="Symfony" width="40" height="40" />
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" title="Laravel" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" title="Laravel" width="40" height="40" />
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40" />
